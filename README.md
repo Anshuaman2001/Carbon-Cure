@@ -1,6 +1,5 @@
 # Carbon-Cure
-<<<<<<< HEAD
-=======
+
 Carbon Tracking & Reduction Web Platform :
 
 Overview :
@@ -129,4 +128,4 @@ Create a new feature branch (git checkout -b feature-branch).
 Commit your changes (git commit -m "Add new feature").
 Push to the branch (git push origin feature-branch).
 Create a pull request.
->>>>>>> 242ec6651b200dfec221fd89581d298c6eb8ea10
+
