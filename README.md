@@ -1,9 +1,11 @@
 # Carbon-Cure
-Carbon Tracking & Reduction Web Platform
-Overview
+Carbon Tracking & Reduction Web Platform :
+
+Overview :
 The Carbon Tracking & Reduction Web Platform is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to help companies track their carbon emissions, set reduction goals, receive AI-based recommendations, and integrate with carbon offset programs. It provides real-time analytics, reporting, and actionable insights to help companies make data-driven decisions toward sustainability.
 
-Table of Contents
+Table of Contents : 
+
 Features
 Technology Stack
 Installation
@@ -13,7 +15,7 @@ AI Recommendations
 Project Structure
 Contributing
 
-Features
+Features:
 Carbon Tracking Dashboard:
 
 Monitor real-time carbon emissions.
@@ -54,7 +56,8 @@ JWT (JSON Web Token): For secure authentication.
 OAuth2: For third-party logins (e.g., Google, LinkedIn).
 Cloud Services:
 AWS or Google Cloud: For cloud storage and processing.
-Installation
+
+Installation:
 Clone the repository:
 
 bash
@@ -123,7 +126,7 @@ bash
 Copy code
 carbon-tracking-platform/
 
-Contributing
+Contributing:
 We welcome contributions from the community. Please follow these steps:
 
 Fork the repository.
